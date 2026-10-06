@@ -1,0 +1,503 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,discount,region,status,order_date
+ORD00001,C004,P105,Headset,Accessories,5,85,0,South,Shipped,2026-02-27
+ORD00002,C070,P105,Headset,Accessories,2,85,0.15,West,Completed,2026-02-22
+ORD00003,C028,P100,Laptop,Electronics,4,950,0.15,North,Shipped,2026-02-17
+ORD00004,C029,P105,Headset,Accessories,8,85,0.15,East,Completed,2026-08-03
+ORD00005,C055,P106,Webcam,Electronics,6,70,0.05,South,Shipped,2026-03-23
+ORD00006,C014,P106,Webcam,Electronics,2,70,0.1,North,Cancelled,2026-06-22
+ORD00007,C078,P106,Webcam,Electronics,5,70,0,West,Completed,2026-06-26
+ORD00008,C071,P103,Monitor,Electronics,5,280,0.15,East,Shipped,2026-02-10
+ORD00009,C006,P105,Headset,Accessories,4,85,0.05,North,Shipped,2026-02-05
+ORD00010,C049,P106,Webcam,Electronics,5,70,0.1,East,Shipped,2026-02-21
+ORD00011,C027,P102,Keyboard,Accessories,,60,0,South,Shipped,2026-07-01
+ORD00012,C049,P101,Mouse,Accessories,5,25,0.15,South,Cancelled,2026-08-25
+ORD00013,C030,P106,Webcam,Electronics,1,70,0.05,West,Cancelled,2026-01-29
+ORD00014,C073,P100,Laptop,Electronics,6,950,0,West,Pending,2026-04-19
+ORD00015,C019,P105,Headset,Accessories,5,85,0,South,Cancelled,2026-08-23
+ORD00016,C075,P105,Headset,Accessories,7,85,0.05,South,Shipped,2026-08-08
+ORD00017,C012,P104,Desk Chair,Furniture,1,190,0,South,Shipped,2026-09-10
+ORD00018,C077,P106,Webcam,Electronics,2,70,0.1,West,Pending,2026-08-05
+ORD00019,C071,P104,Desk Chair,Furniture,1,190,0,East,Cancelled,2026-05-09
+ORD00020,C056,P100,Laptop,Electronics,3,950,0.1,North,Cancelled,2026-05-31
+ORD00021,C065,P104,Desk Chair,Furniture,2,190,0.05,South,Shipped,2026-04-02
+ORD00022,C070,P102,Keyboard,Accessories,9,60,0,East,Pending,2026-03-24
+ORD00023,C047,P100,Laptop,Electronics,5,950,0,North,Shipped,2026-02-27
+ORD00024,C011,P104,Desk Chair,Furniture,8,190,0,South,Shipped,2026-02-10
+ORD00025,C071,P105,Headset,Accessories,3,85,0.05,West,Shipped,2026-09-01
+ORD00026,C040,P104,Desk Chair,Furniture,7,-50,0.05,West,Pending,2026-04-13
+ORD00027,C029,P100,Laptop,Electronics,2,950,0.05,North,Shipped,2026-05-07
+ORD00028,C001,P104,Desk Chair,Furniture,2,190,0,South,Completed,2026-04-23
+ORD00029,C010,P100,Laptop,Electronics,9,950,0,East,Pending,2026-06-19
+ORD00030,C074,P101,Mouse,Accessories,10,25,0.1,South,Pending,2026-03-09
+ORD00031,C025,P106,Webcam,Electronics,2,70,0,West,Cancelled,2026-07-28
+ORD00032,C060,P103,Monitor,Electronics,1,280,0,North,Pending,2026-07-30
+ORD00033,C014,P105,Headset,Accessories,4,85,0,South,Pending,2026-06-23
+ORD00034,C024,P101,Mouse,Accessories,5,25,0.1,South,Completed,2026-08-05
+ORD00035,C007,P103,Monitor,Electronics,9,280,0,North,Shipped,2026-02-20
+ORD00036,C063,P101,Mouse,Accessories,8,25,0,West,Completed,2026-07-28
+ORD00037,C001,P101,Mouse,Accessories,7,25,0.05,West,Cancelled,2026-07-14
+ORD00038,C020,P103,Monitor,Electronics,4,280,0.05,South,Completed,2026-09-07
+ORD00039,C041,P104,Desk Chair,Furniture,1,190,0,West,Shipped,2026-02-01
+ORD00040,C011,P100,Laptop,Electronics,3,950,0,North,Shipped,2026-09-18
+ORD00041,C073,P103,Monitor,Electronics,4,280,0.15, north ,Completed,2026-03-03
+ORD00042,C041,P103,Monitor,Electronics,5,280,0,East,Shipped,2026-09-25
+ORD00043,C017,P102,Keyboard,Accessories,5,60,0.1,East,Completed,2026-07-22
+ORD00044,C080,P100,Laptop,Electronics,10,950,0,North,Shipped,2026-08-23
+ORD00045,C017,P104,Desk Chair,Furniture,6,190,0,South,Cancelled,2026-05-16
+ORD00046,C057,P102,Keyboard,Accessories,9,60,0.05,North,Cancelled,2026-03-22
+ORD00047,C018,P105,Headset,Accessories,5,85,0,North,Shipped,2026-02-23
+ORD00048,C078,P102,Keyboard,Accessories,4,60,0.05,South,Cancelled,2026-05-25
+ORD00049,C033,P104,Desk Chair,Furniture,1,190,0,West,Cancelled,2026-09-08
+ORD00050,C043,P100,Laptop,Electronics,3,950,0.05,South,Pending,2026-01-02
+ORD00051,C072,P104,Desk Chair,Furniture,1,190,0,North,Shipped,2026-08-07
+ORD00052,C048,P104,Desk Chair,Furniture,10,190,0.15,South,Pending,2026-01-19
+ORD00053,C040,P101,Mouse,Accessories,6,25,0,East,Shipped,2026-01-22
+ORD00054,C014,P105,Headset,Accessories,6,85,0.15,West,Shipped,2026-05-08
+ORD00055,C023,P101,Mouse,Accessories,7,25,0,South,Cancelled,2026-03-25
+ORD00056,C032,P106,Webcam,Electronics,5,70,0,WEST,Pending,2026-07-30
+ORD00057,C061,P106,Webcam,Electronics,4,70,0,West,Cancelled,2026-01-20
+ORD00058,C029,P102,Keyboard,Accessories,1,60,0,West,Cancelled,2026-04-27
+ORD00059,C036,P102,Keyboard,Accessories,6,60,0.15,West,Cancelled,2026-02-05
+ORD00060,C034,P100,Laptop,Electronics,3,950,0.15,East,Completed,2026-03-01
+ORD00061,C045,P100,Laptop,Electronics,6,950,0.1,North,Pending,2026-08-11
+ORD00062,C033,P104,Desk Chair,Furniture,1,190,0.1,North,Shipped,2026-04-08
+ORD00063,C009,P102,Keyboard,Accessories,6,60,0.15,East,Completed,2026-08-09
+ORD00064,C065,P105,Headset,Accessories,5,85,0.1,East,Pending,2026-06-03
+ORD00065,C071,P105,Headset,Accessories,3,85,0,West,Pending,2026-06-01
+ORD00066,C079,P105,Headset,Accessories,10,85,0.05,West,Completed,2026-03-31
+ORD00067,C027,P102,Keyboard,Accessories,7,60,0.15,East,Pending,2026-05-27
+ORD00068,C028,P103,Monitor,Electronics,9,280,0.1,South,Completed,2026-08-15
+ORD00069,C080,P102,Keyboard,Accessories,6,60,0,South,Cancelled,2026-09-21
+ORD00070,C019,P101,Mouse,Accessories,1,25,0,South,Pending,2026-04-12
+ORD00071,C059,P104,Desk Chair,Furniture,7,190,0.15,South,Pending,2026/03/15
+ORD00072,C032,P103,Monitor,Electronics,3,280,0,North,Pending,2026-07-24
+ORD00073,C067,P101,Mouse,Accessories,8,25,0,South,Completed,2026-04-01
+ORD00074,C060,P103,Monitor,Electronics,9,280,0.15,East,Pending,2026-03-10
+ORD00075,C055,P104,Desk Chair,Furniture,9,190,0.1,South,Pending,2026-09-16
+ORD00076,C032,P103,Monitor,Electronics,5,280,0.15,West,Shipped,2026-05-13
+ORD00077,C010,P102,Keyboard,Accessories,5,60,0,East,Cancelled,2026-08-14
+ORD00078,C018,P102,Keyboard,Accessories,3,60,0,West,Shipped,2026-02-11
+ORD00079,C009,P105,Headset,Accessories,7,85,0.1,East,Pending,2026-04-20
+ORD00080,C027,P103,Monitor,Electronics,7,280,0.1,North,Pending,2026-02-01
+ORD00081,C046,P103,Monitor,Electronics,5,280,0.1,West,Shipped,2026-01-04
+ORD00082,C035,P103,Monitor,Electronics,7,280,0.1,North,Pending,2026-04-23
+ORD00083,C022,P102,Keyboard,Accessories,8,60,0,North,Pending,2026-07-27
+ORD00084,C011,P104,Desk Chair,Furniture,7,190,0,West,Shipped,2026-01-14
+ORD00085,C049,P100,Laptop,Electronics,6,950,0,West,Cancelled,2026-05-14
+ORD00086,C036,P102,Keyboard,Accessories,7,60,0.05,North,Pending,2026-07-14
+ORD00087,C045,P100,Laptop,Electronics,4,950,0,North,Completed,2026-01-27
+ORD00088,C003,P101,Mouse,Accessories,10,25,0,South,Shipped,2026-04-13
+ORD00089,C073,P103,Monitor,Electronics,4,280,0.1,East,Cancelled,2026-02-28
+ORD00090,C021,P101,Mouse,Accessories,5,25,0,North,Cancelled,2026-02-28
+ORD00091,,P104,Desk Chair,Furniture,4,190,0,South,Completed,2026-07-12
+ORD00092,C077,P105,Headset,Accessories,2,85,0.15,North,Cancelled,2026-06-04
+ORD00093,C048,P104,Desk Chair,Furniture,2,190,0.15,East,Completed,2026-08-08
+ORD00094,C063,P106,Webcam,Electronics,2,70,0.1,East,Pending,2026-08-04
+ORD00095,C056,P105,Headset,Accessories,3,85,0.15,East,Pending,2026-03-20
+ORD00096,C076,P103,Monitor,Electronics,5,280,0.05,South,Completed,2026-08-12
+ORD00097,C032,P102,Keyboard,Accessories,8,60,0.15,West,Cancelled,2026-08-19
+ORD00098,C042,P100,Laptop,Electronics,3,950,0.1,South,Cancelled,2026-09-11
+ORD00099,C044,P106,Webcam,Electronics,5,70,0.15,East,Completed,2026-05-13
+ORD00100,C011,P104,Desk Chair,Furniture,4,190,0.1,West,Shipped,2026-04-08
+ORD00101,C063,P105,Headset,Accessories,8,85,0,North,Cancelled,2026-09-01
+ORD00102,C032,P101,Mouse,Accessories,5,25,0.15,East,Pending,2026-07-27
+ORD00103,C055,P104,Desk Chair,Furniture,9,190,0.05,East,Pending,2026-06-26
+ORD00104,C033,P102,Keyboard,Accessories,4,60,0,South,Cancelled,2026-06-06
+ORD00105,C025,P100,Laptop,Electronics,4,950,0.1,East,Cancelled,2026-04-05
+ORD00106,C038,P100,Laptop,Electronics,4,950,0.05,South,Cancelled,2026-04-10
+ORD00107,C036,P100,Laptop,Electronics,1,950,0,East,Shipped,2026-03-06
+ORD00108,C014,P105,Headset,Accessories,1,85,0.15,East,Pending,2026-09-09
+ORD00109,C044,P103,Monitor,Electronics,3,280,0,East,Pending,2026-08-14
+ORD00110,C052,P100,Laptop,Electronics,8,950,0,North,Shipped,2026-02-03
+ORD00111,C011,P101,Mouse,Accessories,4,25,0,West,Shipped,2026-06-05
+ORD00112,C049,P106,Webcam,Electronics,8,70,0.1,East,Pending,2026-09-25
+ORD00113,C079,P102,Keyboard,Accessories,2,60,0,South,Cancelled,2026-01-31
+ORD00114,C021,P105,Headset,Accessories,4,85,0,North,Shipped,2026-02-11
+ORD00115,C058,P100,Laptop,Electronics,10,950,0.1,East,Completed,2026-07-29
+ORD00116,C037,P101,Mouse,Accessories,8,25,0,South,Cancelled,2026-05-28
+ORD00117,C055,P106,Webcam,Electronics,2,70,0.15,South,Shipped,2026-04-12
+ORD00118,C010,P102,Keyboard,Accessories,1,60,0,East,Cancelled,2026-03-14
+ORD00119,C060,P103,Monitor,Electronics,5,280,0.1,East,Pending,2026-03-05
+ORD00120,C077,P103,Monitor,Electronics,1,280,0.1,East,Cancelled,2026-02-11
+ORD00121,C030,P100,Laptop,Electronics,10,950,0.15,North,shipped,2026-02-16
+ORD00122,C023,P104,Desk Chair,Furniture,8,190,0.15,West,Cancelled,2026-01-21
+ORD00123,C063,P101,Mouse,Accessories,2,25,0.1,East,Pending,2026-08-12
+ORD00124,C014,P102,Keyboard,Accessories,3,60,0.05,West,Pending,2026-06-14
+ORD00125,C071,P102,Keyboard,Accessories,1,60,0.1,North,Cancelled,2026-07-25
+ORD00126,C015,P102,Keyboard,Accessories,7,60,0.15,North,Pending,2026-06-15
+ORD00127,C025,P103,Monitor,Electronics,9,280,0.05,West,Pending,2026-01-28
+ORD00128,C027,P106,Webcam,Electronics,5,70,0.15,South,Cancelled,2026-01-27
+ORD00129,C016,P103,Monitor,Electronics,1,280,0.15,South,Shipped,2026-09-06
+ORD00130,C071,P102,Keyboard,Accessories,7,60,0,South,Completed,2026-01-08
+ORD00131,C020,P103,Monitor,Electronics,8,280,0.05,East,Pending,2026-03-02
+ORD00132,C061,P106,Webcam,Electronics,4,70,0.1,South,Pending,2026-09-05
+ORD00133,C018,P101,Mouse,Accessories,2,25,0.05,West,Cancelled,2026-09-18
+ORD00134,C035,P106,Webcam,Electronics,1,70,0.05,East,Pending,2026-09-17
+ORD00135,C058,P106,Webcam,Electronics,9,70,0.1,East,Cancelled,2026-03-18
+ORD00136,C059,P104,Desk Chair,Furniture,6,190,0,South,Pending,2026-07-13
+ORD00137,C006,P101,Mouse,Accessories,6,25,0.1,West,Pending,2026-07-30
+ORD00138,C064,P105,Headset,Accessories,1,85,0,East,Completed,2026-03-19
+ORD00139,C013,P106,Webcam,Electronics,9,70,0.1,North,Shipped,2026-08-14
+ORD00140,C010,P103,Monitor,Electronics,8,280,0.05,East,Pending,2026-03-21
+ORD00141,C043,P105,Headset,Accessories,9,85,0.1,East,Pending,2026-02-11
+ORD00142,C080,P106,Webcam,Electronics,2,70,0,East,Shipped,2026-01-19
+ORD00143,C056,P105,Headset,Accessories,2,85,0,West,Shipped,2026-02-16
+ORD00144,C004,P105,Headset,Accessories,1,85,0.05,North,Cancelled,2026-06-03
+ORD00145,C056,P102,Keyboard,Accessories,3,60,0,West,Shipped,2026-07-11
+ORD00146,C011,P101,Mouse,Accessories,10,25,0.1,South,Pending,2026-03-31
+ORD00147,C030,P104,Desk Chair,Furniture,8,190,0.05,West,Cancelled,2026-03-15
+ORD00148,C060,P105,Headset,Accessories,5,85,0.15,South,Completed,2026-01-05
+ORD00149,C076,P103,Monitor,Electronics,5,280,0.1,East,Pending,2026-06-26
+ORD00150,C026,P106,Webcam,Electronics,7,70,0.1,North,Shipped,2026-06-04
+ORD00151,C074,P103,Monitor,Electronics,5,280,0.05,North,Pending,not_a_date
+ORD00152,C073,P102,Keyboard,Accessories,1,60,0.15,West,Cancelled,2026-01-05
+ORD00153,C078,P106,Webcam,Electronics,6,70,0,South,Cancelled,2026-04-28
+ORD00154,C013,P105,Headset,Accessories,1,85,0.05,West,Completed,2026-03-12
+ORD00155,C017,P104,Desk Chair,Furniture,2,190,0.05,East,Pending,2026-07-06
+ORD00156,C017,P101,Mouse,Accessories,9,25,0.05,East,Shipped,2026-04-13
+ORD00157,C038,P102,Keyboard,Accessories,6,60,0,West,Completed,2026-09-04
+ORD00158,C051,P101,Mouse,Accessories,9,25,0.05,North,Pending,2026-04-26
+ORD00159,C069,P100,Laptop,Electronics,2,950,0.1,East,Cancelled,2026-05-16
+ORD00160,C048,P104,Desk Chair,Furniture,2,190,0,West,Completed,2026-07-15
+ORD00161,C079,P104,Desk Chair,Furniture,4,190,0,West,Cancelled,2026-06-17
+ORD00162,C015,P105,Headset,Accessories,3,85,0,North,Cancelled,2026-07-29
+ORD00163,C013,P103,Monitor,Electronics,4,280,0.15,South,Pending,2026-03-01
+ORD00164,C070,P103,Monitor,Electronics,7,280,0.15,South,Pending,2026-07-09
+ORD00165,C063,P105,Headset,Accessories,10,85,0.1,East,Completed,2026-02-20
+ORD00166,C028,P105,Headset,Accessories,8,85,0.1,South,Cancelled,2026-07-09
+ORD00167,C070,P100,Laptop,Electronics,6,950,0,West,Cancelled,2026-07-08
+ORD00168,C059,P101,Mouse,Accessories,2,25,0,North,Completed,2026-03-04
+ORD00169,C032,P106,Webcam,Electronics,3,70,0.15,South,Completed,2026-06-20
+ORD00170,C076,P106,Webcam,Electronics,4,70,0,East,Shipped,2026-04-17
+ORD00171,C036,P106,Webcam,Electronics,3,70,0,East,Shipped,2026-01-02
+ORD00172,C017,P100,Laptop,Electronics,1,950,0.05,South,Cancelled,2026-01-14
+ORD00173,C034,P100,Laptop,Electronics,1,950,0,West,Completed,2026-03-31
+ORD00174,C061,P105,Headset,Accessories,8,85,0.05,North,Pending,2026-02-02
+ORD00175,C079,P104,Desk Chair,Furniture,1,190,0.15,East,Pending,2026-04-24
+ORD00176,C008,P105,Headset,Accessories,8,85,0.1,West,Completed,2026-01-16
+ORD00177,C010,P103,Monitor,Electronics,2,280,0.05,South,Completed,2026-08-16
+ORD00178,C080,P101,Mouse,Accessories,10,25,0.15,East,Pending,2026-05-21
+ORD00179,C059,P104,Desk Chair,Furniture,9,190,0.15,West,Completed,2026-05-31
+ORD00180,C071,P106,Webcam,Electronics,4,70,0.1,West,Shipped,2026-02-28
+ORD00181,C059,P103,Monitor,Electronics,7,280,0.1,North,Cancelled,2026-06-23
+ORD00182,C033,P103,Monitor,Electronics,6,280,0,West,Completed,2026-06-10
+ORD00183,C012,P100,Laptop,Electronics,7,950,0,East,Shipped,2026-02-13
+ORD00184,C076,P104,Desk Chair,Furniture,9,190,0.15,East,Completed,2026-01-31
+ORD00185,C055,P103,Monitor,Electronics,1,280,0.05,East,Cancelled,2026-07-01
+ORD00186,C028,P100,Laptop,Electronics,3,950,0.1,South,Completed,2026-09-17
+ORD00187,C015,P102,Keyboard,Accessories,5,60,0.15,South,Pending,2026-07-08
+ORD00188,C078,P106,Webcam,Electronics,5,70,0,South,Cancelled,2026-01-14
+ORD00189,C044,P105,Headset,Accessories,6,85,0,South,Shipped,2026-06-08
+ORD00190,C009,P104,Desk Chair,Furniture,3,190,0,North,Shipped,2026-07-25
+ORD00191,C059,P103,Monitor,Electronics,6,280,0,East,Cancelled,2026-08-03
+ORD00192,C073,P105,Headset,Accessories,10,85,0,North,Shipped,2026-06-16
+ORD00193,C011,P101,Mouse,Accessories,5,25,0.1,West,Pending,2026-01-26
+ORD00194,C054,P104,Desk Chair,Furniture,5,190,0,North,Cancelled,2026-08-15
+ORD00195,C037,P103,Monitor,Electronics,10,280,0.1,East,Completed,2026-02-26
+ORD00196,C077,P101,Mouse,Accessories,1,25,0,South,Cancelled,2026-07-22
+ORD00197,C033,P101,Mouse,Accessories,5,25,0.05,North,Completed,2026-03-12
+ORD00198,C023,P103,Monitor,Electronics,3,280,0.1,South,Cancelled,2026-08-09
+ORD00199,C006,P100,Laptop,Electronics,7,950,0,West,Completed,2026-07-23
+ORD00200,C074,P106,Webcam,Electronics,7,70,0.15,West,Pending,2026-06-10
+ORD00201,C052,P102,Keyboard,Accessories,1,60,0.05,South,Pending,2026-02-28
+ORD00202,C012,P106,Webcam,Electronics,7,70,0,South,Pending,2026-07-05
+ORD00203,C068,P104,Desk Chair,Furniture,2,190,0.1,East,Cancelled,2026-07-25
+ORD00204,C022,P101,Mouse,Accessories,2,25,0.15,North,Shipped,2026-06-20
+ORD00205,C045,P106,Webcam,Electronics,3,70,0,North,Shipped,2026-06-28
+ORD00206,C023,P102,Keyboard,Accessories,10,60,0,North,Shipped,2026-04-12
+ORD00207,C060,P106,Webcam,Electronics,10,70,0.15,West,Cancelled,2026-09-10
+ORD00208,C020,P106,Webcam,Electronics,8,70,0,West,Pending,2026-06-11
+ORD00209,C036,P105,Headset,Accessories,10,85,0,East,Completed,2026-06-05
+ORD00210,C058,P102,Keyboard,Accessories,1,60,0,East,Cancelled,2026-08-25
+ORD00211,C079,P100,Laptop,Electronics,10,950,0.15,West,Pending,2026-02-16
+ORD00212,C058,P104,Desk Chair,Furniture,10,190,0,East,Pending,2026-01-22
+ORD00213,C008,P104,Desk Chair,Furniture,8,190,0,East,Completed,2026-03-19
+ORD00214,C006,P104,Desk Chair,Furniture,4,190,0.1,West,Shipped,2026-03-30
+ORD00215,C037,P102,Keyboard,Accessories,7,60,0.1,East,Completed,2026-07-10
+ORD00216,C009,P106,Webcam,Electronics,6,70,0,West,Cancelled,2026-06-21
+ORD00217,C043,P102,Keyboard,Accessories,2,60,0.15,South,Cancelled,2026-03-18
+ORD00218,C017,P102,Keyboard,Accessories,10,60,0,East,Pending,2026-07-20
+ORD00219,C017,P105,Headset,Accessories,9,85,0,West,Cancelled,2026-06-18
+ORD00220,C040,P100,Laptop,Electronics,3,950,0,East,Pending,2026-07-05
+ORD00221,C018,P101,Mouse,Accessories,3,25,0,East,Completed,2026-04-26
+ORD00222,C005,P104,Desk Chair,Furniture,6,190,0.15,South,Pending,2026-09-27
+ORD00223,C024,P101,Mouse,Accessories,10,25,0,West,Completed,2026-03-25
+ORD00224,C031,P103,Monitor,Electronics,8,280,0.15,East,Pending,2026-07-06
+ORD00225,C040,P101,Mouse,Accessories,8,25,0,East,Pending,2026-05-03
+ORD00226,C049,P103,Monitor,Electronics,9,280,0.15,West,Shipped,2026-05-25
+ORD00227,C078,P106,Webcam,Electronics,3,70,0.05,North,Pending,2026-04-13
+ORD00228,C071,P106,Webcam,Electronics,2,70,0.15,North,Cancelled,2026-07-10
+ORD00229,C035,P100,Laptop,Electronics,8,950,0.15,South,Pending,2026-03-24
+ORD00230,C058,P100,Laptop,Electronics,6,950,0,West,Completed,2026-04-24
+ORD00231,C048,P103,Monitor,Electronics,4,280,0.1,North,Cancelled,2026-09-15
+ORD00232,C041,P101,Mouse,Accessories,2,25,0.05,South,Shipped,2026-01-15
+ORD00233,C061,P100,Laptop,Electronics,3,950,0.1,West,Completed,2026-05-27
+ORD00234,C033,P100,Laptop,Electronics,4,950,0,West,Completed,2026-01-10
+ORD00235,C031,P106,Webcam,Electronics,5,70,0,North,Shipped,2026-05-28
+ORD00236,C009,P103,Monitor,Electronics,2,280,0.1,North,Shipped,2026-08-23
+ORD00237,C038,P105,Headset,Accessories,7,85,0,East,Shipped,2026-03-15
+ORD00238,C024,P104,Desk Chair,Furniture,2,190,0.15,East,Completed,2026-08-02
+ORD00239,C065,P104,Desk Chair,Furniture,9,190,0,West,Pending,2026-09-17
+ORD00240,C048,P100,Laptop,Electronics,5,950,0,East,Completed,2026-07-18
+ORD00241,C014,P102,Keyboard,Accessories,10,60,0.05,South,Completed,2026-05-04
+ORD00242,C023,P102,Keyboard,Accessories,8,60,0.1,South,Shipped,2026-06-23
+ORD00243,C005,P100,Laptop,Electronics,5,950,0,North,Shipped,2026-08-23
+ORD00244,C040,P100,Laptop,Electronics,9,950,0.1,West,Cancelled,2026-06-11
+ORD00245,C037,P100,Laptop,Electronics,6,950,0,East,Cancelled,2026-04-08
+ORD00246,C056,P100,Laptop,Electronics,7,950,0.1,West,Cancelled,2026-07-08
+ORD00247,C064,P101,Mouse,Accessories,6,25,0.15,East,Completed,2026-09-12
+ORD00248,C011,P105,Headset,Accessories,7,85,0.15,South,Cancelled,2026-08-06
+ORD00249,C011,P102,Keyboard,Accessories,6,60,0.05,East,Pending,2026-02-22
+ORD00250,C022,P104,Desk Chair,Furniture,8,190,0.05,West,Completed,2026-08-07
+ORD00251,C079,P105,Headset,Accessories,7,85,0.05,North,Completed,2026-06-30
+ORD00252,C047,P105,Headset,Accessories,9,85,0,North,Shipped,2026-07-27
+ORD00253,C005,P106,Webcam,Electronics,3,70,0,South,Cancelled,2026-08-13
+ORD00254,C073,P102,Keyboard,Accessories,1,60,0.15,South,Pending,2026-07-16
+ORD00255,C057,P102,Keyboard,Accessories,2,60,0.15,South,Cancelled,2026-07-10
+ORD00256,C036,P103,Monitor,Electronics,4,280,0,North,Shipped,2026-06-10
+ORD00257,C050,P103,Monitor,Electronics,9,280,0,East,Cancelled,2026-09-23
+ORD00258,C028,P105,Headset,Accessories,10,85,0.05,West,Shipped,2026-08-17
+ORD00259,C010,P100,Laptop,Electronics,8,950,0,West,Completed,2026-03-11
+ORD00260,C045,P106,Webcam,Electronics,2,70,0.15,East,Cancelled,2026-06-13
+ORD00261,C023,P106,Webcam,Electronics,6,70,0.15,South,Completed,2026-03-22
+ORD00262,C031,P101,Mouse,Accessories,8,25,0,East,Cancelled,2026-03-13
+ORD00263,C079,P103,Monitor,Electronics,2,280,0,East,Pending,2026-03-08
+ORD00264,C068,P105,Headset,Accessories,7,85,0.1,North,Shipped,2026-09-03
+ORD00265,C058,P102,Keyboard,Accessories,8,60,0.15,East,Shipped,2026-02-07
+ORD00266,C017,P106,Webcam,Electronics,7,70,0.15,North,Completed,2026-04-04
+ORD00267,C039,P104,Desk Chair,Furniture,3,190,0,East,Shipped,2026-03-20
+ORD00268,C037,P102,Keyboard,Accessories,2,60,0.05,South,Cancelled,2026-09-23
+ORD00269,C079,P101,Mouse,Accessories,9,25,0,South,Shipped,2026-06-05
+ORD00270,C073,P101,Mouse,Accessories,1,25,0,North,Completed,2026-06-22
+ORD00271,C027,P105,Headset,Accessories,10,85,0.1,North,Pending,2026-05-16
+ORD00272,C039,P105,Headset,Accessories,8,85,0,West,Cancelled,2026-05-29
+ORD00273,C008,P103,Monitor,Electronics,3,280,0.1,West,Pending,2026-02-07
+ORD00274,C044,P103,Monitor,Electronics,10,280,0,East,Cancelled,2026-04-15
+ORD00275,C052,P105,Headset,Accessories,3,85,0.05,North,Cancelled,2026-06-26
+ORD00276,C016,P101,Mouse,Accessories,5,25,0.1,South,Shipped,2026-08-27
+ORD00277,C038,P100,Laptop,Electronics,7,950,0.15,West,Shipped,2026-01-26
+ORD00278,C042,P106,Webcam,Electronics,10,70,0.05,South,Shipped,2026-03-23
+ORD00279,C060,P103,Monitor,Electronics,8,280,0.05,West,Completed,2026-09-21
+ORD00280,C065,P100,Laptop,Electronics,8,950,0,South,Cancelled,2026-07-21
+ORD00281,C037,P100,Laptop,Electronics,8,950,0.15,West,Cancelled,2026-01-26
+ORD00282,C014,P104,Desk Chair,Furniture,7,190,0,East,Cancelled,2026-01-05
+ORD00283,C047,P106,Webcam,Electronics,1,70,0.1,North,Shipped,2026-07-26
+ORD00284,C010,P102,Keyboard,Accessories,7,60,0.15,West,Cancelled,2026-05-28
+ORD00285,C017,P106,Webcam,Electronics,2,70,0.1,East,Cancelled,2026-03-02
+ORD00286,C019,P104,Desk Chair,Furniture,4,190,0.15,West,Completed,2026-07-07
+ORD00287,C018,P100,Laptop,Electronics,6,950,0.1,West,Shipped,2026-01-20
+ORD00288,C018,P104,Desk Chair,Furniture,6,190,0.15,East,Shipped,2026-09-21
+ORD00289,C076,P103,Monitor,Electronics,6,280,0.15,West,Cancelled,2026-06-03
+ORD00290,C048,P103,Monitor,Electronics,6,280,0,West,Cancelled,2026-01-09
+ORD00291,C077,P106,Webcam,Electronics,8,70,0.05,South,Completed,2026-01-14
+ORD00292,C022,P104,Desk Chair,Furniture,9,190,0.15,West,Shipped,2026-09-03
+ORD00293,C005,P106,Webcam,Electronics,10,70,0,South,Completed,2026-05-05
+ORD00294,C054,P103,Monitor,Electronics,3,280,0.1,South,Pending,2026-06-10
+ORD00295,C008,P104,Desk Chair,Furniture,3,190,0.15,South,Cancelled,2026-08-30
+ORD00296,C068,P105,Headset,Accessories,7,85,0.05,South,Pending,2026-09-02
+ORD00297,C070,P104,Desk Chair,Furniture,6,190,0.05,West,Shipped,2026-06-25
+ORD00298,C072,P101,Mouse,Accessories,5,25,0,East,Cancelled,2026-05-23
+ORD00299,C063,P105,Headset,Accessories,6,85,0.1,East,Cancelled,2026-04-17
+ORD00300,C074,P102,Keyboard,Accessories,9,60,0.1,West,Cancelled,2026-03-04
+ORD00301,C038,P106,Webcam,Electronics,1,70,0.05,North,Cancelled,2026-03-16
+ORD00302,C062,P103,Monitor,Electronics,4,280,0,East,Cancelled,2026-05-12
+ORD00303,C079,P101,Mouse,Accessories,10,25,0,South,Completed,2026-02-25
+ORD00304,C030,P105,Headset,Accessories,1,85,0,West,Cancelled,2026-04-26
+ORD00305,C013,P105,Headset,Accessories,3,85,0,South,Pending,2026-08-30
+ORD00306,C062,P105,Headset,Accessories,4,85,0.05,East,Cancelled,2026-09-01
+ORD00307,C012,P105,Headset,Accessories,10,85,0,North,Shipped,2026-01-31
+ORD00308,C005,P103,Monitor,Electronics,7,280,0.1,South,Cancelled,2026-04-01
+ORD00309,C039,P100,Laptop,Electronics,10,950,0.15,North,Cancelled,2026-01-05
+ORD00310,C070,P102,Keyboard,Accessories,9,60,0.1,South,Pending,2026-08-21
+ORD00311,C015,P102,Keyboard,Accessories,6,60,0,West,Cancelled,2026-04-09
+ORD00312,C002,P105,Headset,Accessories,6,85,0.05,South,Shipped,2026-04-06
+ORD00313,C055,P104,Desk Chair,Furniture,9,190,0.05,North,Pending,2026-07-27
+ORD00314,C024,P105,Headset,Accessories,3,85,0.1,East,Shipped,2026-02-18
+ORD00315,C050,P100,Laptop,Electronics,4,950,0.1,East,Cancelled,2026-05-14
+ORD00316,C034,P102,Keyboard,Accessories,6,60,0,North,Completed,2026-01-06
+ORD00317,C021,P103,Monitor,Electronics,7,280,0.15,East,Completed,2026-06-07
+ORD00318,C048,P105,Headset,Accessories,10,85,0,South,Shipped,2026-06-01
+ORD00319,C059,P103,Monitor,Electronics,10,280,0.05,West,Pending,2026-03-20
+ORD00320,C032,P106,Webcam,Electronics,10,70,0,West,Cancelled,2026-04-22
+ORD00321,C008,P100,Laptop,Electronics,9,950,0.15,South,Shipped,2026-02-27
+ORD00322,C067,P101,Mouse,Accessories,8,25,0,South,Pending,2026-06-17
+ORD00323,C058,P100,Laptop,Electronics,1,950,0.1,South,Pending,2026-09-19
+ORD00324,C072,P103,Monitor,Electronics,8,280,0.05,North,Pending,2026-01-30
+ORD00325,C028,P102,Keyboard,Accessories,10,60,0,North,Pending,2026-01-02
+ORD00326,C070,P102,Keyboard,Accessories,1,60,0,West,Completed,2026-02-02
+ORD00327,C024,P102,Keyboard,Accessories,3,60,0.1,East,Pending,2026-07-29
+ORD00328,C049,P103,Monitor,Electronics,2,280,0.15,South,Cancelled,2026-07-13
+ORD00329,C069,P100,Laptop,Electronics,7,950,0.15,South,Shipped,2026-04-02
+ORD00330,C003,P106,Webcam,Electronics,5,70,0.1,West,Pending,2026-01-02
+ORD00331,C032,P106,Webcam,Electronics,8,70,0.05,South,Cancelled,2026-04-28
+ORD00332,C005,P101,Mouse,Accessories,7,25,0.15,North,Shipped,2026-02-27
+ORD00333,C013,P101,Mouse,Accessories,10,25,0,West,Completed,2026-02-04
+ORD00334,C052,P101,Mouse,Accessories,8,25,0,South,Completed,2026-01-23
+ORD00335,C038,P101,Mouse,Accessories,4,25,0.15,East,Cancelled,2026-09-15
+ORD00336,C019,P101,Mouse,Accessories,9,25,0,West,Cancelled,2026-06-04
+ORD00337,C072,P102,Keyboard,Accessories,10,60,0,West,Pending,2026-02-01
+ORD00338,C049,P100,Laptop,Electronics,9,950,0.05,West,Pending,2026-06-26
+ORD00339,C049,P101,Mouse,Accessories,3,25,0.15,West,Shipped,2026-06-03
+ORD00340,C039,P106,Webcam,Electronics,3,70,0.1,North,Pending,2026-04-26
+ORD00341,C050,P103,Monitor,Electronics,4,280,0.05,South,Cancelled,2026-03-10
+ORD00342,C058,P105,Headset,Accessories,6,85,0,South,Completed,2026-02-10
+ORD00343,C078,P102,Keyboard,Accessories,10,60,0,North,Shipped,2026-07-13
+ORD00344,C062,P106,Webcam,Electronics,4,70,0.05,East,Completed,2026-04-22
+ORD00345,C016,P101,Mouse,Accessories,8,25,0,South,Pending,2026-04-08
+ORD00346,C037,P101,Mouse,Accessories,7,25,0.1,East,Cancelled,2026-06-14
+ORD00347,C066,P102,Keyboard,Accessories,8,60,0.1,North,Pending,2026-07-04
+ORD00348,C027,P106,Webcam,Electronics,6,70,0.05,West,Completed,2026-06-13
+ORD00349,C019,P104,Desk Chair,Furniture,1,190,0.05,West,Cancelled,2026-04-24
+ORD00350,C043,P101,Mouse,Accessories,4,25,0.1,South,Pending,2026-04-11
+ORD00351,C033,P104,Desk Chair,Furniture,8,190,0.1,West,Shipped,2026-06-22
+ORD00352,C022,P105,Headset,Accessories,3,85,0.15,West,Shipped,2026-06-30
+ORD00353,C068,P104,Desk Chair,Furniture,1,190,0,North,Completed,2026-01-31
+ORD00354,C030,P103,Monitor,Electronics,2,280,0,North,Shipped,2026-03-12
+ORD00355,C048,P104,Desk Chair,Furniture,1,190,0.15,West,Pending,2026-08-22
+ORD00356,C069,P100,Laptop,Electronics,9,950,0.1,North,Completed,2026-01-04
+ORD00357,C069,P104,Desk Chair,Furniture,5,190,0,West,Shipped,2026-05-21
+ORD00358,C068,P100,Laptop,Electronics,3,950,0,South,Cancelled,2026-02-19
+ORD00359,C035,P106,Webcam,Electronics,7,70,0,East,Pending,2026-07-01
+ORD00360,C029,P103,Monitor,Electronics,5,280,0,North,Completed,2026-05-05
+ORD00361,C049,P103,Monitor,Electronics,9,280,0.1,North,Completed,2026-07-14
+ORD00362,C011,P105,Headset,Accessories,8,85,0.1,East,Completed,2026-03-29
+ORD00363,C030,P104,Desk Chair,Furniture,4,190,0.15,West,Cancelled,2026-01-22
+ORD00364,C036,P100,Laptop,Electronics,9,950,0.15,North,Shipped,2026-02-08
+ORD00365,C003,P106,Webcam,Electronics,4,70,0.15,South,Pending,2026-06-11
+ORD00366,C021,P100,Laptop,Electronics,10,950,0,West,Cancelled,2026-06-03
+ORD00367,C011,P103,Monitor,Electronics,9,280,0.05,North,Completed,2026-03-13
+ORD00368,C010,P103,Monitor,Electronics,6,280,0.15,West,Cancelled,2026-04-29
+ORD00369,C058,P100,Laptop,Electronics,8,950,0,East,Pending,2026-05-20
+ORD00370,C075,P103,Monitor,Electronics,7,280,0,East,Shipped,2026-04-06
+ORD00371,C011,P105,Headset,Accessories,5,85,0,West,Shipped,2026-02-07
+ORD00372,C041,P105,Headset,Accessories,6,85,0,North,Completed,2026-07-19
+ORD00373,C047,P102,Keyboard,Accessories,5,60,0,South,Completed,2026-08-16
+ORD00374,C058,P101,Mouse,Accessories,9,25,0.15,West,Completed,2026-08-09
+ORD00375,C046,P100,Laptop,Electronics,9,950,0,East,Pending,2026-02-15
+ORD00376,C053,P100,Laptop,Electronics,7,950,0,South,Shipped,2026-05-30
+ORD00377,C022,P105,Headset,Accessories,3,85,0.05,East,Cancelled,2026-07-14
+ORD00378,C009,P103,Monitor,Electronics,3,280,0.1,East,Pending,2026-03-16
+ORD00379,C010,P102,Keyboard,Accessories,6,60,0.05,South,Pending,2026-09-05
+ORD00380,C059,P104,Desk Chair,Furniture,2,190,0,East,Completed,2026-04-11
+ORD00381,C080,P103,Monitor,Electronics,7,280,0.05,West,Cancelled,2026-06-20
+ORD00382,C039,P103,Monitor,Electronics,6,280,0.15,South,Pending,2026-03-11
+ORD00383,C051,P102,Keyboard,Accessories,6,60,0.05,West,Shipped,2026-04-01
+ORD00384,C036,P102,Keyboard,Accessories,7,60,0.05,North,Shipped,2026-07-12
+ORD00385,C071,P104,Desk Chair,Furniture,1,190,0.1,South,Pending,2026-04-03
+ORD00386,C009,P106,Webcam,Electronics,7,70,0.1,South,Cancelled,2026-05-30
+ORD00387,C020,P101,Mouse,Accessories,7,25,0.1,North,Pending,2026-05-10
+ORD00388,C075,P104,Desk Chair,Furniture,7,190,0.15,West,Completed,2026-09-03
+ORD00389,C069,P106,Webcam,Electronics,10,70,0,North,Shipped,2026-07-04
+ORD00390,C022,P105,Headset,Accessories,10,85,0,West,Cancelled,2026-07-01
+ORD00391,C014,P106,Webcam,Electronics,1,70,0,East,Shipped,2026-08-09
+ORD00392,C072,P104,Desk Chair,Furniture,10,190,0.15,South,Pending,2026-09-23
+ORD00393,C060,P102,Keyboard,Accessories,10,60,0.15,South,Cancelled,2026-07-20
+ORD00394,C014,P100,Laptop,Electronics,5,950,0.1,North,Completed,2026-09-05
+ORD00395,C045,P106,Webcam,Electronics,5,70,0.05,West,Shipped,2026-03-14
+ORD00396,C045,P104,Desk Chair,Furniture,8,190,0,West,Pending,2026-09-05
+ORD00397,C039,P102,Keyboard,Accessories,1,60,0,North,Cancelled,2026-02-04
+ORD00398,C022,P105,Headset,Accessories,4,85,0.15,South,Shipped,2026-02-25
+ORD00399,C060,P102,Keyboard,Accessories,4,60,0.1,South,Shipped,2026-08-07
+ORD00400,C051,P105,Headset,Accessories,1,85,0.15,South,Pending,2026-08-10
+ORD00401,C050,P104,Desk Chair,Furniture,1,190,0,South,Cancelled,2026-08-08
+ORD00402,C074,P106,Webcam,Electronics,2,70,0.15,South,Cancelled,2026-02-02
+ORD00403,C059,P102,Keyboard,Accessories,2,60,0.05,West,Cancelled,2026-04-11
+ORD00404,C079,P104,Desk Chair,Furniture,7,190,0.15,North,Cancelled,2026-07-18
+ORD00405,C080,P102,Keyboard,Accessories,3,60,0.05,North,Shipped,2026-08-23
+ORD00406,C031,P102,Keyboard,Accessories,5,60,0,South,Cancelled,2026-03-02
+ORD00407,C066,P105,Headset,Accessories,7,85,0.1,South,Pending,2026-03-14
+ORD00408,C063,P103,Monitor,Electronics,9,280,0,South,Pending,2026-04-06
+ORD00409,C024,P102,Keyboard,Accessories,6,60,0.1,North,Cancelled,2026-03-13
+ORD00410,C018,P100,Laptop,Electronics,4,950,0.1,West,Pending,2026-09-06
+ORD00411,C054,P105,Headset,Accessories,8,85,0.1,South,Completed,2026-09-09
+ORD00412,C029,P104,Desk Chair,Furniture,5,190,0,East,Shipped,2026-01-16
+ORD00413,C022,P104,Desk Chair,Furniture,8,190,0.15,West,Completed,2026-05-28
+ORD00414,C035,P104,Desk Chair,Furniture,9,190,0.05,North,Pending,2026-02-28
+ORD00415,C055,P104,Desk Chair,Furniture,2,190,0,East,Completed,2026-04-22
+ORD00416,C045,P103,Monitor,Electronics,2,280,0.1,North,Shipped,2026-05-15
+ORD00417,C079,P101,Mouse,Accessories,7,25,0,South,Shipped,2026-06-29
+ORD00418,C008,P106,Webcam,Electronics,10,70,0.05,East,Shipped,2026-04-16
+ORD00419,C038,P102,Keyboard,Accessories,10,60,0.05,North,Shipped,2026-05-30
+ORD00420,C008,P106,Webcam,Electronics,5,70,0,South,Shipped,2026-07-30
+ORD00421,C032,P101,Mouse,Accessories,7,25,0.1,South,Cancelled,2026-06-14
+ORD00422,C049,P105,Headset,Accessories,8,85,0,North,Pending,2026-08-01
+ORD00423,C048,P104,Desk Chair,Furniture,8,190,0.1,East,Completed,2026-05-23
+ORD00424,C059,P106,Webcam,Electronics,6,70,0,West,Shipped,2026-02-17
+ORD00425,C064,P103,Monitor,Electronics,5,280,0.05,East,Cancelled,2026-04-19
+ORD00426,C073,P104,Desk Chair,Furniture,8,190,0.05,North,Completed,2026-03-08
+ORD00427,C003,P100,Laptop,Electronics,2,950,0,West,Pending,2026-08-24
+ORD00428,C026,P100,Laptop,Electronics,3,950,0.05,South,Cancelled,2026-08-08
+ORD00429,C033,P100,Laptop,Electronics,2,950,0.05,South,Completed,2026-07-04
+ORD00430,C030,P103,Monitor,Electronics,7,280,0,North,Completed,2026-06-06
+ORD00431,C010,P101,Mouse,Accessories,3,25,0.15,South,Pending,2026-09-02
+ORD00432,C044,P100,Laptop,Electronics,2,950,0.1,South,Pending,2026-01-05
+ORD00433,C050,P100,Laptop,Electronics,2,950,0,North,Cancelled,2026-04-28
+ORD00434,C018,P102,Keyboard,Accessories,7,60,0,South,Completed,2026-06-03
+ORD00435,C079,P104,Desk Chair,Furniture,3,190,0.1,East,Shipped,2026-01-05
+ORD00436,C053,P105,Headset,Accessories,10,85,0.1,South,Completed,2026-03-19
+ORD00437,C016,P100,Laptop,Electronics,10,950,0.1,East,Pending,2026-03-13
+ORD00438,C032,P102,Keyboard,Accessories,5,60,0,South,Cancelled,2026-03-13
+ORD00439,C039,P106,Webcam,Electronics,4,70,0.15,South,Pending,2026-01-14
+ORD00440,C031,P102,Keyboard,Accessories,8,60,0.1,North,Shipped,2026-01-28
+ORD00441,C068,P103,Monitor,Electronics,1,280,0.05,East,Shipped,2026-02-06
+ORD00442,C047,P103,Monitor,Electronics,9,280,0,West,Completed,2026-08-04
+ORD00443,C002,P100,Laptop,Electronics,5,950,0,North,Completed,2026-02-04
+ORD00444,C065,P106,Webcam,Electronics,5,70,0.15,West,Pending,2026-07-23
+ORD00445,C011,P105,Headset,Accessories,9,85,0.15,South,Cancelled,2026-07-25
+ORD00446,C011,P100,Laptop,Electronics,9,950,0,South,Cancelled,2026-06-08
+ORD00447,C040,P103,Monitor,Electronics,7,280,0,North,Shipped,2026-02-03
+ORD00448,C015,P100,Laptop,Electronics,8,950,0.15,North,Cancelled,2026-08-11
+ORD00449,C016,P105,Headset,Accessories,1,85,0,North,Shipped,2026-03-31
+ORD00450,C067,P103,Monitor,Electronics,9,280,0.05,South,Cancelled,2026-06-27
+ORD00451,C016,P101,Mouse,Accessories,1,25,0.05,West,Cancelled,2026-05-18
+ORD00452,C034,P104,Desk Chair,Furniture,10,190,0,West,Pending,2026-02-02
+ORD00453,C008,P104,Desk Chair,Furniture,8,190,0.15,South,Cancelled,2026-07-04
+ORD00454,C014,P101,Mouse,Accessories,10,25,0,South,Completed,2026-05-11
+ORD00455,C032,P100,Laptop,Electronics,1,950,0.1,East,Pending,2026-01-07
+ORD00456,C005,P101,Mouse,Accessories,9,25,0.1,South,Cancelled,2026-04-02
+ORD00457,C041,P101,Mouse,Accessories,5,25,0,East,Completed,2026-08-02
+ORD00458,C023,P104,Desk Chair,Furniture,4,190,0.15,North,Pending,2026-01-27
+ORD00459,C037,P100,Laptop,Electronics,5,950,0.05,North,Pending,2026-08-27
+ORD00460,C026,P100,Laptop,Electronics,5,950,0.15,East,Shipped,2026-07-08
+ORD00461,C076,P103,Monitor,Electronics,8,280,0,South,Shipped,2026-07-08
+ORD00462,C004,P100,Laptop,Electronics,4,950,0.15,East,Completed,2026-07-29
+ORD00463,C049,P102,Keyboard,Accessories,5,60,0,South,Shipped,2026-01-01
+ORD00464,C008,P103,Monitor,Electronics,3,280,0.05,North,Completed,2026-09-09
+ORD00465,C053,P101,Mouse,Accessories,6,25,0.1,North,Completed,2026-09-24
+ORD00466,C051,P104,Desk Chair,Furniture,2,190,0.15,North,Pending,2026-03-10
+ORD00467,C031,P105,Headset,Accessories,5,85,0.05,East,Pending,2026-03-08
+ORD00468,C041,P105,Headset,Accessories,8,85,0.05,South,Completed,2026-06-17
+ORD00469,C075,P101,Mouse,Accessories,2,25,0,North,Shipped,2026-03-11
+ORD00470,C041,P103,Monitor,Electronics,7,280,0,East,Shipped,2026-08-27
+ORD00471,C060,P103,Monitor,Electronics,5,280,0,North,Shipped,2026-06-07
+ORD00472,C078,P106,Webcam,Electronics,1,70,0,East,Shipped,2026-06-05
+ORD00473,C046,P100,Laptop,Electronics,7,950,0.15,North,Cancelled,2026-05-08
+ORD00474,C004,P102,Keyboard,Accessories,7,60,0.1,South,Completed,2026-03-31
+ORD00475,C018,P103,Monitor,Electronics,2,280,0,North,Shipped,2026-02-22
+ORD00476,C052,P101,Mouse,Accessories,6,25,0,East,Completed,2026-04-12
+ORD00477,C026,P100,Laptop,Electronics,8,950,0,North,Cancelled,2026-02-03
+ORD00478,C060,P100,Laptop,Electronics,1,950,0,West,Pending,2026-01-22
+ORD00479,C049,P103,Monitor,Electronics,7,280,0,East,Shipped,2026-01-16
+ORD00480,C036,P101,Mouse,Accessories,8,25,0,North,Shipped,2026-05-21
+ORD00481,C064,P105,Headset,Accessories,7,85,0.15,West,Completed,2026-06-01
+ORD00482,C050,P100,Laptop,Electronics,3,950,0.1,South,Shipped,2026-05-24
+ORD00483,C049,P105,Headset,Accessories,6,85,0.1,West,Cancelled,2026-01-10
+ORD00484,C042,P104,Desk Chair,Furniture,7,190,0.05,South,Completed,2026-09-15
+ORD00485,C004,P102,Keyboard,Accessories,5,60,0,West,Cancelled,2026-04-23
+ORD00486,C021,P106,Webcam,Electronics,2,70,0,South,Cancelled,2026-04-30
+ORD00487,C029,P104,Desk Chair,Furniture,10,190,0.1,East,Shipped,2026-01-29
+ORD00488,C076,P101,Mouse,Accessories,6,25,0.05,North,Cancelled,2026-05-02
+ORD00489,C073,P104,Desk Chair,Furniture,4,190,0.1,East,Shipped,2026-03-14
+ORD00490,C012,P103,Monitor,Electronics,1,280,0,South,Completed,2026-01-20
+ORD00491,C001,P104,Desk Chair,Furniture,6,190,0.15,South,Shipped,2026-09-02
+ORD00492,C042,P102,Keyboard,Accessories,1,60,0,South,Shipped,2026-04-01
+ORD00493,C068,P106,Webcam,Electronics,6,70,0,East,Pending,2026-02-26
+ORD00494,C044,P104,Desk Chair,Furniture,5,190,0.05,South,Shipped,2026-02-21
+ORD00495,C063,P105,Headset,Accessories,6,85,0,East,Shipped,2026-08-12
+ORD00496,C049,P105,Headset,Accessories,5,85,0.05,South,Shipped,2026-03-31
+ORD00497,C074,P105,Headset,Accessories,7,85,0.15,North,Shipped,2026-01-01
+ORD00498,C079,P104,Desk Chair,Furniture,4,190,0.15,North,Pending,2026-06-12
+ORD00499,C010,P101,Mouse,Accessories,4,25,0.05,East,Shipped,2026-06-19
+ORD00500,C043,P105,Headset,Accessories,8,85,0,East,Shipped,2026-02-15
+ORD00006,C014,P106,Webcam,Electronics,2,70,0.1,North,Cancelled,2026-06-22
+ORD00201,C052,P102,Keyboard,Accessories,1,60,0.05,South,Pending,2026-02-28
